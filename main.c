@@ -1,11 +1,11 @@
-# include <bits/stdc++.h>
+# include <iostream>
 
 using namesapce std;
 
 
 int main(){
 
-cout << "hello " ;
+printf("hello") ;
 
 return 0;
 }
