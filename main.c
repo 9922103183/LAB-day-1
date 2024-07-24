@@ -1,6 +1,6 @@
-# include <iostream>
+# include <stdio.h>
 
-using namesapce std;
+
 
 
 int main(){
